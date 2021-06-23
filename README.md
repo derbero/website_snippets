@@ -1,2 +1,2 @@
 # website_snippets
-some tiny littler helpers for website development
+some tiny little helpers for website development
